@@ -46,7 +46,7 @@
   - sample 04-10 (실습, 시간 구하기)
   - sample 04-11 (실습, 이자 구하기)
 
- - week 04_report
+- week 04_report
   - 과제 링크
   - report 04_01 ()
   - report 04_02 ()
