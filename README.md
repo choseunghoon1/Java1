@@ -73,7 +73,7 @@
   - sample 06_04 (Cigarette, JAVA 06-3장 연산자 우선순위(실습) 59페이지)
  
 - week 07
-  - sample 07_01 (if ~else 문 예제, JAVA 07-2장 선택문(실습) 8페이지~23페이지)
+  - sample 07_01 (if ~else 문 예제, JAVA 07-2장 선택문(실습) 8페이지-23페이지)
   - sample 07_02 (if ~else 문 예제, JAVA 07-2장 선택문(실습) 9페이지)
   - sample 07_03 (세 정수에 가장 큰 수 찾기(III), JAVA 07-2장 선택문(실습) 39페이지)
   - sample 07_04 (Tax 계산하기, JAVA 07-2장 선택문(실습) 81~84페이지)
