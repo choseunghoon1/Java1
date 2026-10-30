@@ -60,17 +60,25 @@
   - sample 05-04 (놀이 공원 (7세 ~ 65세), JAVA 05-5장 연산자(실습) 69페이지)
  
 - week 05_report
-  - 과제 링크
-  - report 05_01 ()
-  - report 05_02 ()
-  - report 05_03 ()
-  - report 05_04 ()
+  - https://o365kbu-my.sharepoint.com/:p:/g/personal/202617682_office_kbu_ac_kr/IQAqe1-NN5HwTq6BFB3AlAqiAdxyHMqNkNqN8Ws0N8KDo94?e=3h8wY1
+  - report 05_01 (JAVA의 표현식)
+  - report 05_02 (3개 정수)
+  - report 05_03 (JAVA 성적)
+  - report 05_04 (온라인 쇼핑몰)
  
 - week 06
   - sample 06_01 (HEART, JAVA 06-3장 연산자 우선순위(실습) 45페이지)
   - sample 06_02 (GOLD, JAVA 06-3장 연산자 우선순위(실습) 50페이지)
   - sample 06_03 (KOREA, JAVA 06-3장 연산자 우선순위(실습)) 55페이지)
   - sample 06_04 (Cigarette, JAVA 06-3장 연산자 우선순위(실습) 59페이지)
+ 
+- week 07
+  - sample 07_01 (if ~else 문 예제, JAVA 07-2장 선택문(실습) 8페이지~23페이지)
+  - sample 07_02 (if ~else 문 예제, JAVA 07-2장 선택문(실습) 9페이지)
+  - sample 07_03 (세 정수에 가장 큰 수 찾기(III), JAVA 07-2장 선택문(실습) 39페이지)
+  - sample 07_04 (Tax 계산하기, JAVA 07-2장 선택문(실습) 81~84페이지)
+  - sample 07_05 (12간지(Chinese Zodiac), JAVA 07-2장 선택문(실습) 145~150페이지)
+  - sample 07_06 (가위바위보, JAVA 07-2장 가위바위보(선택문실습))
 
 ## 🛠 Environment
 
