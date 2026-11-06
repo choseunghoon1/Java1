@@ -79,6 +79,14 @@
   - sample 07_04 (Tax 계산하기, JAVA 07-2장 선택문(실습) 81~84페이지)
   - sample 07_05 (12간지(Chinese Zodiac), JAVA 07-2장 선택문(실습) 145~150페이지)
   - sample 07_06 (가위바위보, JAVA 07-2장 가위바위보(선택문실습))
+ 
+- week 08
+  - sample 08_01 (while,)
+  - sample 08_02 (JAVA 09-2장 반복문(실습) 11페이지)
+  - sample 08_03 ()
+  - sample 08_04 ()
+  - sample 08_05 ()
+  - sample 08_06 (1억원 만들)
 
 ## 🛠 Environment
 
